@@ -8,5 +8,6 @@ namespace SingletonDesignPattern
 {
     class Test
     {
+		int a=10;
     }
 }

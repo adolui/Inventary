@@ -4,3 +4,6 @@ F:\Singleton Design Pattern\SingletonDesignPattern\SingletonDesignPattern\bin\De
 F:\Singleton Design Pattern\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\SingletonDesignPattern.csprojResolveAssemblyReference.cache
 F:\Singleton Design Pattern\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\SingletonDesignPattern.exe
 F:\Singleton Design Pattern\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\SingletonDesignPattern.pdb
+C:\Users\hp\Desktop\DownloadFile\Inventary\SingletonDesignPattern\bin\Debug\SingletonDesignPattern.exe.config
+C:\Users\hp\Desktop\DownloadFile\Inventary\SingletonDesignPattern\obj\Debug\SingletonDesignPattern.exe
+C:\Users\hp\Desktop\DownloadFile\Inventary\SingletonDesignPattern\obj\Debug\SingletonDesignPattern.pdb
